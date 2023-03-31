@@ -2,4 +2,4 @@
 
 # Расчёт вещества в растворе
 
-![alt text](/percent.png)
+![alt text](/public/percent.png)
